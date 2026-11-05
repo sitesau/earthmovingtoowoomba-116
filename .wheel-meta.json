@@ -1,0 +1,22 @@
+{
+  "wheel_id": 755,
+  "structure": "umbrella",
+  "slug": "earthmovingtoowoomba-116",
+  "project": "earthmoving-contractors-toowoomba-materials-compared-46815f11d1",
+  "parent_t1_ref": "earthmovingtoowoomba-157",
+  "node_role": "feeder",
+  "money_target": "earthmovingtoowoomba.com.au",
+  "primary_kw": "earthmoving contractors toowoomba materials compared",
+  "intended_url": "https://sites-e470-2.web.app/earthmoving-contractors-toowoomba-materials-compared-46815f11d1/",
+  "tier": "T2",
+  "writeback_nonce": "9e0e7efedb0a334d",
+  "links": [
+    {
+      "target_url": "http://earthmoving-contractors-toowoomba-quotes-explained-ad81edb88383.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Earthmoving Contractors Toowoomba Quotes Explained: Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
